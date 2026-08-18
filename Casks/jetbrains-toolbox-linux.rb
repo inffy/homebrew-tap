@@ -1,6 +1,6 @@
 cask "jetbrains-toolbox-linux" do
-  version "3.5.0.84344"
-  sha256 "1bbc5baa8ab664a83153424eb4831786e86628bfc024c4f5a675f45a534678ef"
+  version "3.7.0.87111"
+  sha256 "6e9b3d17fe5081a428325aa62f67717e4bbe0c2cfb7bc0745fc39c987a0a7b1e"
 
   url "https://download.jetbrains.com/toolbox/jetbrains-toolbox-#{version}.tar.gz"
   name "JetBrains Toolbox"
